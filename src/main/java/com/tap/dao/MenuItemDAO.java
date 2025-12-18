@@ -1,13 +1,18 @@
 package com.tap.dao;
 
 import java.util.List;
+import java.util.Map;
+import java.util.Set;
+
 import com.tap.models.MenuItem;
 
 /*It will handle CRUD operations for menu items
  * plus custom queries like fetching all menu items for a specific restaurant,
  * searching by category,
  * filtering by availability
- */
+ * 
+ * 
+ * */
 
 public interface MenuItemDAO {
 
@@ -34,4 +39,8 @@ public interface MenuItemDAO {
     
     // if restaurant temporarily runs out of a dish (like “Chicken Biryani”) and needs to mark it unavailable without deleting it.
     void updateAvailability(int menuItemId, boolean isAvailable);
+    
+    Map<Integer, MenuItem> getMenuItemsAsMap(Set<Integer> ids);
+
+
 }

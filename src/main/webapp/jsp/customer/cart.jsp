@@ -141,7 +141,7 @@
 
 
 								<!-- Item Info -->
-								<div>
+								 <div>
 									<strong>${item.name}</strong><br> <span
 										class="veg-badge ${!item.veg ? 'nonveg' : ''}">
 										${item.veg ? 'VEG' : 'NON-VEG'} </span>

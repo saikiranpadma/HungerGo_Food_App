@@ -3,27 +3,27 @@
 <nav class="navbar">
 
 	<!-- LOGO → HOME -->
-	<a class="logo" href="${pageContext.request.contextPath}/"> <img
+	<a class="logo-brand" href="${pageContext.request.contextPath}/"> <img
 		src="${pageContext.request.contextPath}/assets/images/app_logo.png"
-		alt="Food Express" class="app-logo"
-		onerror="this.onerror=null; 
-            this.style.display='none'; 
-            this.parentElement.innerText='FoodApp';" />
+		alt="FoodXpress" class="app-logo"
+		onerror="this.onerror=null; this.style.display='none'; this.parentElement.innerText='HungerGo';" />
+		<span class="brand-text">HungerGO</span>
+
 	</a>
 
 	<div class="navbar-links">
 
 		<a href="${pageContext.request.contextPath}/restaurant?action=list">
-			Restaurants </a> <a href="${pageContext.request.contextPath}/orders">
-			My Orders </a>
+			Restaurants </a> <a
+			href="${pageContext.request.contextPath}/orderHistory"> My Orders
+		</a>
 
 		<!-- CART ICON -->
-		<a class="nav-cart-btn" href="${pageContext.request.contextPath}/cart"
-			title="View Cart"> <img
-			src="${pageContext.request.contextPath}/assets/images/cart_icon.png"
-			alt="Cart" class="cart-icon"
-			onerror="this.style.display='none'; this.parentElement.innerText='Cart';" />
+		<a href="${pageContext.request.contextPath}/cart" class="cart-link">
+			<img src="${pageContext.request.contextPath}/assets/images/cart.png"
+			alt="Cart" class="cart-icon"  title="View Cart"/>
 		</a>
+
 
 		<c:choose>
 

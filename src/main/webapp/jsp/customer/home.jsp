@@ -17,7 +17,7 @@
 
       <a class="card" href="${pageContext.request.contextPath}/restaurant?action=list">
         <h3>🍽 Browse Restaurants</h3>
-        <p class="card__text">Discover restaurants near you</p>
+        <p class="card_ text">Discover restaurants near you</p>
       </a>
 
       <a class="card" href="${pageContext.request.contextPath}/cart">
@@ -25,7 +25,7 @@
         <p class="card__text">View items added to cart</p>
       </a>
 
-      <a class="card" href="${pageContext.request.contextPath}/orders">
+      <a class="card" href="${pageContext.request.contextPath}/orderHistory">
         <h3>📦 My Orders</h3>
         <p class="card__text">Track your order history</p>
       </a>

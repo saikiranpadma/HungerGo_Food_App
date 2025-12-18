@@ -12,9 +12,9 @@
 
             <!-- LEFT TEXT -->
             <div class="hero-text">
-                <h1 class="hero-title">Hungry? Order Your Favorite Food Now</h1>
+                <h1 class="hero-title">When hunger hits, order your favorite food instantly.</h1>
                 <p class="hero-subtitle">
-                    Fresh meals delivered from top restaurants near you.
+                    Enjoy fresh meals from top-rated restaurants around you.
                 </p>
 
                 <div class="hero-buttons">
