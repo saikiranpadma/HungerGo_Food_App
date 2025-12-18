@@ -4,7 +4,7 @@ A **production-style food order web application** built using **Java EE, JSP, Se
 **HungerGo** simulates a real-world online food ordering platform where users can **discover restaurants 🍽️, explore menus 📋, manage carts 🛒, place orders 🚀, and track order history 📦** — similar to popular platforms like **Swiggy** and **Zomato**.
 
 <p align="center">
-  <img src="https://github.com/pratikp3280/FoodXpress/blob/main/FoodApp/screenshots/01-homepage.png" alt="HungerGo Project Banner" width="950"/>
+  <img src="https://github.com/saikiranpadma/HungerGo_Food_App/blob/main/screenshots/01-homepage.png" alt="HungerGo Project Banner" width="950"/>
 </p>
 
 ---
@@ -36,13 +36,13 @@ Below is a visual walkthrough of **HungerGo**, showcasing key user flows and cor
 ### 🏠 User Journey Screens
 
 <p align="center">
-  <img src="https://github.com/pratikp3280/FoodXpress/blob/main/FoodApp/screenshots/01-homepage.png" width="45%" />
-  <img src="https://github.com/pratikp3280/FoodXpress/blob/main/FoodApp/screenshots/02-register.png" width="45%" />
+  <img src="https://github.com/saikiranpadma/HungerGo_Food_App/blob/main/screenshots/01-homepage.png" width="45%" />
+  <img src="https://github.com/saikiranpadma/HungerGo_Food_App/blob/main/screenshots/02-register.png" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/pratikp3280/FoodXpress/blob/main/FoodApp/screenshots/03-login.png" width="45%" />
-  <img src="https://github.com/pratikp3280/FoodXpress/blob/main/FoodApp/screenshots/04-customer_dashboard.png" width="45%" />
+  <img src="https://github.com/saikiranpadma/HungerGo_Food_App/blob/main/screenshots/03-login.png" width="45%" />
+  <img src="https://github.com/saikiranpadma/HungerGo_Food_App/blob/main/screenshots/04-customer_dashboard.png" width="45%" />
 </p>
 
 ---
@@ -50,13 +50,13 @@ Below is a visual walkthrough of **HungerGo**, showcasing key user flows and cor
 ### 🍽️ Browsing & Ordering Flow
 
 <p align="center">
-  <img src="https://github.com/pratikp3280/FoodXpress/blob/main/FoodApp/screenshots/07-restaurants.png" width="45%" />
-  <img src="https://github.com/pratikp3280/FoodXpress/blob/main/FoodApp/screenshots/08-menu.png" width="45%" />
+  <img src="https://github.com/saikiranpadma/HungerGo_Food_App/blob/main/screenshots/07-restaurants.png" width="45%" />
+  <img src="https://github.com/saikiranpadma/HungerGo_Food_App/blob/main/screenshots/08-menu.png" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/pratikp3280/FoodXpress/blob/main/FoodApp/screenshots/09-view_cart.png" width="45%" />
-  <img src="https://github.com/pratikp3280/FoodXpress/blob/main/FoodApp/screenshots/10-checkout.png" width="45%" />
+  <img src="https://github.com/saikiranpadma/HungerGo_Food_App/blob/main/screenshots/09-view_cart.png" width="45%" />
+  <img src="https://github.com/saikiranpadma/HungerGo_Food_App/blob/main/screenshots/10-checkout.png" width="45%" />
 </p>
 
 ---
@@ -64,8 +64,8 @@ Below is a visual walkthrough of **HungerGo**, showcasing key user flows and cor
 ### ✅ Order Completion & History
 
 <p align="center">
-  <img src="https://github.com/pratikp3280/FoodXpress/blob/main/FoodApp/screenshots/11-order_success.png" width="45%" />
-  <img src="https://github.com/pratikp3280/FoodXpress/blob/main/FoodApp/screenshots/12-order_history.png" height="100%" width ="45%" />
+  <img src="https://github.com/saikiranpadma/HungerGo_Food_App/blob/main/screenshots/11-order_success.png" width="45%" />
+  <img src="https://github.com/saikiranpadma/HungerGo_Food_App/blob/main/screenshots/12-order_history.png" height="100%" width ="45%" />
 </p>
 
 ---
