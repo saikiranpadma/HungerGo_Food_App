@@ -69,34 +69,52 @@ Below is a visual walkthrough of **HungerGo**, showcasing key user flows and cor
 </p>
 
 ---
-## 🎯 Key Features
 
-### 👤 User Features
-- 🔐 Secure **User Registration & Login** with session management
-- 🏠 Personalized **User Dashboard** after authentication
-- 🍽️ Browse available **Restaurants** with detailed listings
-- 📋 View **Dynamic Menus** with real-time item data
-- 🛒 **Add to Cart** functionality with quantity management
-- 📍 Manage **Delivery Addresses** for order placement
-- 🚀 Smooth **Checkout Flow** with order confirmation
-- 📦 View **Order Success** and detailed **Order History**
-- 👤 Update and manage **User Profile** information
+## 🎯 Key Highlights
+### 👤 User-Oriented Features
+- 🔐 Safe and reliable user sign-up and sign-in with session-based security
 
-### 🛠️ System & Backend Features
-- 🧱 Clean **MVC (Model–View–Controller)** architecture
-- 🔄 **Servlet-based request handling** and routing
-- 🗄️ **DAO pattern** for database abstraction
-- 🔌 **JDBC integration** with MySQL for persistent storage
-- 🔐 **Session tracking** for authenticated user flows
-- ⚠️ Centralized **validation & error handling**
-- 🧹 Modular and maintainable **project structure**
+- 🏠 Access to a customized dashboard after successful login
 
-### 💻 Frontend & UX Features
-- 🎨 Clean, intuitive, and user-friendly UI
-- 📱 Responsive layouts for different screen sizes
-- ⚡ Dynamic page rendering using **JSP**
-- 🧭 Simple navigation flow across all modules
-- ✅ Clear user feedback for actions and status updates
+- 🍽️ Explore a variety of restaurants with complete details
+
+- 📋 Display of live menus with updated food items
+
+- 🛒 Cart management with item quantity controls
+
+- 📍 Add, edit, and manage delivery locations
+
+- 🚀 Seamless order checkout process with confirmation
+
+- 📦 Track completed orders and view order history
+
+- 👤 Edit and maintain personal profile details
+
+### 🛠️ Backend & System Capabilities
+- 🧱 Well-structured MVC (Model–View–Controller) design pattern
+
+- 🔄 Efficient Servlet-based routing and request processing
+
+- 🗄️ Implementation of the DAO layer for database operations
+  
+- 🔌 MySQL database connectivity using JDBC
+
+- 🔐 Secure session management for logged-in users
+
+- ⚠️ Unified input validation and exception handling
+
+- 🧹 Organized, scalable, and easy-to-maintain codebase
+
+### 💻 Frontend & User Experience
+- 🎨 Modern, clean, and easy-to-use interface design
+
+- 📱 Fully responsive UI across desktops, tablets, and mobiles
+
+- ⚡ Dynamic content rendering using JSP technology
+
+- 🧭 Smooth and logical navigation throughout the application
+
+- ✅ Instant and clear feedback messages for user actions
 
 ---
 ## 🛠️ Technology Stack
